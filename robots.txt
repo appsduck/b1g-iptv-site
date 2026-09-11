@@ -6,4 +6,4 @@ Disallow: /admin/
 Disallow: /checkout/thank-you/
 
 # Sitemap location
-Sitemap: https://appsduck.github.io/b1g-iptv-site/sitemap.xml
+Sitemap: https://b1g-iptv.shop/sitemap.xml
