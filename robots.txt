@@ -1,0 +1,9 @@
+# Robots.txt for B1G IPTV
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /checkout/thank-you/
+
+# Sitemap location
+Sitemap: https://appsduck.github.io/b1g-iptv-site/sitemap.xml
